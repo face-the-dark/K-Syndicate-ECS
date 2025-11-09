@@ -65,7 +65,7 @@ ExportedObj/
 /src/K-Syndicate-ECS/sysinfo.txt
 
 # Mono auto generated files
-mono_crash.*
+/src/K-Syndicate-ECS/mono_crash.*
 
 # Builds
 *.apk
